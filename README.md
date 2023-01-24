@@ -10,8 +10,10 @@ tags:
 inference: true
 ---
 <center><h1><b>Pastel Mix</b></h1></center>
- <p align="center">Welcome to Pastel Mix - a mixed latent diffusion model. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.
-This model is made with the thought of imitating pastel-like art and the potential of mixing LORAs into a model altogether to create a fantastic mix. Recipe for this mix could be found below. Like other anime-style Stable Diffusion models, it also supports danbooru tags to generate images. </p>
+ <p align="center">Welcome to Pastel Mix - a mixed latent diffusion model. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.</p>
+
+   <p align="center">This model is made with the thought of imitating pastel-like art and the potential of mixing LORAs into a model altogether to create a fantastic mix. 
+   Recipe for this mix could be found below. Like other anime-style Stable Diffusion models, it also supports danbooru tags to generate images. </p>
 
 <p align="center">e.g. <b>masterpiece, best quality, upper body, 1girl, looking at viewer, red hair, medium hair, purple eyes, demon horns, black coat, indoors, dimly lit</b></p>
 
@@ -29,10 +31,14 @@ Under construction.
 
 ## Recipe
 
+Merging the models.
+
 | Model: A | Model: B | Weight | Base alpha | Merge Name |
 | --- | --- | --- | --- | --- |
 | [dpepmkmp](https://huggingface.co/closertodeath/dpepmkmp)  | [Tea](https://huggingface.co/andite/desserts) | 1,0.9,0.7,0.5,0.3,0.1,1,1,1,1,1,1,0,1,1,1,1,1,1,0.1,0.3,0.5,0.7,0.9,1 | 0 | dpeptea |
 | dpeptea | [basil-mix](https://huggingface.co/nuigurumi/basil_mix) | 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0 | 0 | dpeptea-basil |
+
+Merging the loras into the model.
 
 | Model | Lora | Weight | Merge Name |
 | --- | --- | --- | --- |
