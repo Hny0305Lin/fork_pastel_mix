@@ -37,3 +37,5 @@ example-images/grid-0020.png filter=lfs diff=lfs merge=lfs -text
 example-images/grid-0035.png filter=lfs diff=lfs merge=lfs -text
 example-images/grid-0043.png filter=lfs diff=lfs merge=lfs -text
 example-images/grid-reimu.png filter=lfs diff=lfs merge=lfs -text
+example-images/01166-[[:space:]].png filter=lfs diff=lfs merge=lfs -text
+example-images/01177-[[:space:]].png filter=lfs diff=lfs merge=lfs -text
