@@ -20,6 +20,14 @@ inference: true
 <p align="center"><img src="https://huggingface.co/andite/Pastel-Mix/resolve/main/example-images/grid-0020.png">
 <img src="https://huggingface.co/andite/Pastel-Mix/resolve/main/example-images/grid-0018.png"></p>
 
+-------
+
+## How to download with Git
+
+```
+git lfs install --skip-smudge
+git clone https://huggingface.co/andite/pastel-mix
+```
 
 ## 🧨 Diffusers
 
@@ -75,6 +83,8 @@ The CreativeML OpenRAIL License specifies:
 2. The authors claims no rights on the outputs you generate, you are free to use them and are accountable for their use which must not go against the provisions set in the license
 3. You may re-distribute the weights and use the model commercially and/or as a service. If you do, please be aware you have to include the same use restrictions as the ones in the license and share a copy of the CreativeML OpenRAIL-M to all your users (please read the license entirely and carefully)
 [Please read the full license here](https://huggingface.co/spaces/CompVis/stable-diffusion-license)
+
+-------
 
 ## Big Thanks to
 
