@@ -2,6 +2,7 @@
 language:
 - en
 license: creativeml-openrail-m
+thumbnail: "https://huggingface.co/andite/pastel-mix/resolve/main/example-images/01194-%20.png"
 tags:
 - stable-diffusion
 - stable-diffusion-diffusers
