@@ -23,7 +23,6 @@ widget:
 <p align="center"><img src="https://huggingface.co/andite/Pastel-Mix/resolve/main/example-images/grid-0020.png">
 <img src="https://huggingface.co/andite/Pastel-Mix/resolve/main/example-images/grid-0018.png"></p>
 
-## 🧨 Diffusers
 
 ## 🧨 Diffusers
 
