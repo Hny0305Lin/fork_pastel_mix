@@ -10,7 +10,7 @@ tags:
 inference: true
 widget:
   - text: >-
-      masterpiece, best quality, hatsune miku, 1girl
+      masterpiece, best quality, upper body, 1girl, looking at viewer, red hair, medium hair, purple eyes, demon horns, black coat, indoors, dimly lit
 ---
 <center><h1><b>Pastel Mix</b></h1></center>
  <p align="center">Welcome to Pastel Mix - a mixed latent diffusion model. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.</p>
