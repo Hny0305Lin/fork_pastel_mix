@@ -8,6 +8,9 @@ tags:
 - text-to-image
 - diffusers
 inference: true
+widget:
+  - text: >-
+      masterpiece, best quality, hatsune miku, 1girl
 ---
 <center><h1><b>Pastel Mix</b></h1></center>
  <p align="center">Welcome to Pastel Mix - a mixed latent diffusion model. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.</p>
