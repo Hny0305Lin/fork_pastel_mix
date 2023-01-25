@@ -91,6 +91,37 @@ masterpiece, best quality, ultra-detailed, illustration, close-up, straight on, 
 Negative prompt: lowres, ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 240742293, Size: 640x448, Model hash: 7edc8e08, Model: pastelmix-fp32, Denoising strength: 0.6, Clip skip: 2, ENSD: 31337, Hires resize: 1280x960, Hires steps: 20, Hires upscaler: Latent
 ```
+
+## Guide
+
+For the settings or parameters, I recommend using these settings.
+
+![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/settings.png)
+
+``
+Sampler: DPM++ 2M Karras
+Steps: 20
+CFG Scale: 7
+Hires. Fix: On
+Upscaler: Latent
+Hires Steps: 20
+Denoising Strength: 0.6
+``
+I prefer using 0.6 since it's the sweet spot of this model. If you can find a better setting for this model, then good for you lol.
+
+Please use the **VAE** that I uploaded in this repository. It is from the [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/tree/main/vae) team. Credits to [haru](https://huggingface.co/hakurei) for letting me rename and upload it.
+
+## Tip (Optional)
+
+Putting mksks style in the beginning of the prompt can further influence the pastel-like style and make the output better. It is optional though, so it's up to you. You don't really need it.
+![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/xy_grid-0016-%20.png)
+
+```
+mksks style, masterpiece, best quality, upper body, 1girl, looking at viewer, red hair, medium hair, purple eyes, demon horns, black coat, indoors, dimly lit
+Negative prompt: lowres, ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 580841049, Size: 448x640, Model hash: 7edc8e08, Model: pastelmix-fp32, Denoising strength: 0.6, Clip skip: 2, ENSD: 31337, Hires resize: 960x1280, Hires steps: 20, Hires upscaler: Latent
+```
+
 ## Recipe
 
 Merging the models.
