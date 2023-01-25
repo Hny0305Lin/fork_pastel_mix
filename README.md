@@ -53,8 +53,44 @@ image.save("./hatsune_miku.png")
 
 ## Examples
 
-Under construction.
+![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/grid-0035.png)
 
+```
+masterpiece, best quality, ultra-detailed, illustration, portrait, 1girl
+Negative prompt: lowres, ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Size: 448x640, Model hash: 7edc8e08, Model: pastelmix-fp32, Denoising strength: 0.6, Clip skip: 2, ENSD: 31337, Hires resize: 960x1280, Hires steps: 20, Hires upscaler: Latent
+```
+![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/grid-reimu.png)
+
+```
+masterpiece, best quality, ultra-detailed, illustration, portrait, hakurei reimu, 1girl, throne room, dimly lit
+Negative prompt: lowres, ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Size: 448x640, Model hash: 7edc8e08, Model: pastelmix-fp32, Denoising strength: 0.6, Clip skip: 2, ENSD: 31337, Hires resize: 960x1280, Hires steps: 20, Hires upscaler: Latent
+```
+
+![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/grid-0043.png)
+
+```
+masterpiece, best quality, ultra-detailed, illustration, 1girl, witch hat, purple eyes, blonde hair, wielding a purple staff blasting purple energy, purple beam, purple effects, dragons, chaos
+Negative prompt: lowres, ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Size: 448x640, Model hash: 7edc8e08, Model: pastelmix-fp32, Denoising strength: 0.6, Clip skip: 2, ENSD: 31337, Hires resize: 960x1280, Hires steps: 20, Hires upscaler: Latent
+```
+
+![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/01166-%20.png)
+
+```
+masterpiece, best quality, ultra-detailed, illustration, close-up, straight on, 1girl, black hair, yellow eyes, red roses, chains
+Negative prompt: lowres, ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2203084815, Size: 640x448, Model hash: 7edc8e08, Model: pastelmix-fp32, Denoising strength: 0.6, Clip skip: 2, ENSD: 31337, Hires resize: 1280x960, Hires steps: 20, Hires upscaler: Latent
+```
+
+![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/01177-%20.png)
+
+```
+masterpiece, best quality, ultra-detailed, illustration, close-up, straight on, face focus, 1girl, white hair, golden eyes, long hair, halo, angel wings, serene expression, looking at viewer
+Negative prompt: lowres, ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 240742293, Size: 640x448, Model hash: 7edc8e08, Model: pastelmix-fp32, Denoising strength: 0.6, Clip skip: 2, ENSD: 31337, Hires resize: 1280x960, Hires steps: 20, Hires upscaler: Latent
+```
 ## Recipe
 
 Merging the models.
