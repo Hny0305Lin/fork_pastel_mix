@@ -26,7 +26,7 @@ inference: true
 ## How to download with Git
 
 ```
-git lfs install --skip-smudge
+git lfs install
 git clone https://huggingface.co/andite/pastel-mix
 ```
 
