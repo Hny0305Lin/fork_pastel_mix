@@ -10,7 +10,7 @@ tags:
 inference: true
 ---
 <center><h1><b>Pastel Mix</b></h1></center>
- <p align="center">Welcome to Pastel Mix - a mixed latent diffusion model. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.</p>
+ <p align="center">Welcome to Pastel Mix - a stylized latent diffusion model. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.</p>
 
    <p align="center">This model is made with the thought of imitating pastel-like art and the potential of mixing LORAs into a model altogether to create a fantastic mix. 
    Recipe for this mix could be found below. Like other anime-style Stable Diffusion models, it also supports danbooru tags to generate images. </p>
