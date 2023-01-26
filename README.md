@@ -101,14 +101,23 @@ For the settings or parameters, I recommend using these settings.
 
 ``
 Sampler: DPM++ 2M Karras
+
 Steps: 20
+
 CFG Scale: 7
+
 Hires. Fix: On
+
 Upscaler: Latent
+
 Hires Steps: 20
+
 Denoising Strength: 0.6
+
 ``
 I prefer using 0.6 since it's the sweet spot of this model. If you can find a better setting for this model, then good for you lol.
+
+Latent upscaler is the best setting for me since it retains or enhances the pastel style. Other upscalers like Lanczos or Anime6B tends to smoothen them out, removing the pastel-like brushwork.
 
 Please use the **VAE** that I uploaded in this repository. It is from the [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/tree/main/vae) team. Credits to [haru](https://huggingface.co/hakurei) for letting me rename and upload it.
 
