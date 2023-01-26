@@ -41,3 +41,4 @@ example-images/01166-[[:space:]].png filter=lfs diff=lfs merge=lfs -text
 example-images/01177-[[:space:]].png filter=lfs diff=lfs merge=lfs -text
 example-images/xy_grid-0016-[[:space:]].png filter=lfs diff=lfs merge=lfs -text
 example-images/01194-[[:space:]].png filter=lfs diff=lfs merge=lfs -text
+example-images/xyz_grid-0004-[[:space:]].png filter=lfs diff=lfs merge=lfs -text
