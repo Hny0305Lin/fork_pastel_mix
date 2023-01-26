@@ -99,7 +99,7 @@ For the settings or parameters, I recommend using these settings.
 
 ![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/settings.png)
 
-``
+```
 Sampler: DPM++ 2M Karras
 
 Steps: 20
@@ -108,13 +108,13 @@ CFG Scale: 7
 
 Hires. Fix: On
 
-Upscaler: Latent
+Upscaler: Latent (MUST!)
 
 Hires Steps: 20
 
-Denoising Strength: 0.6
+Denoising Strength: 0.
+```
 
-``
 I prefer using 0.6 since it's the sweet spot of this model. If you can find a better setting for this model, then good for you lol.
 
 Latent upscaler is the best setting for me since it retains or enhances the pastel style. Other upscalers like Lanczos or Anime6B tends to smoothen them out, removing the pastel-like brushwork.
