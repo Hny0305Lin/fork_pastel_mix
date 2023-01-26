@@ -93,6 +93,14 @@ Negative prompt: lowres, ((bad anatomy)), ((bad hands)), text, missing finger, e
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 240742293, Size: 640x448, Model hash: 7edc8e08, Model: pastelmix-fp32, Denoising strength: 0.6, Clip skip: 2, ENSD: 31337, Hires resize: 1280x960, Hires steps: 20, Hires upscaler: Latent
 ```
 
+## So what the hell is the 'better-vae' version?
+
+I merged the pastel-waifu-diffusion.vae.pt inside the model so you don't have to set up the vae anymore. 
+
+![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/xyz_grid-0004-%20.png)
+
+life so much ez now since you don't have to download the vae and set it up right?
+
 ## Guide
 
 For the settings or parameters, I recommend using these settings.
