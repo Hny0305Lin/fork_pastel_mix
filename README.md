@@ -10,6 +10,9 @@ tags:
 - diffusers
 inference: true
 ---
+
+I uploaded the model in CivitAI! -> https://civitai.com/models/5414/pastel-mix-stylized-anime-model I'd appreciate the ratings, thank you!
+
 <center><h1><b>Pastel Mix</b></h1></center>
  <p align="center">Welcome to Pastel Mix - a stylized latent diffusion model. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.</p>
 
