@@ -11,7 +11,15 @@ tags:
 inference: true
 ---
 
+Update Logs:
+
+[1/27/22]
+
 I uploaded the model in CivitAI! -> https://civitai.com/models/5414/pastel-mix-stylized-anime-model I'd appreciate the ratings, thank you!
+
+[2/2/22]
+
+Uploaded a lora version.
 
 <center><h1><b>Pastel Mix</b></h1></center>
  <p align="center">Welcome to Pastel Mix - a stylized latent diffusion model. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.</p>
@@ -109,6 +117,12 @@ I merged the pastel-waifu-diffusion.vae.pt inside the model so you don't have to
 ![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/xyz_grid-0004-%20.png)
 
 life so much ez now since you don't have to download the vae and set it up right?
+
+## What is pastelmix-lora.safetensors?
+
+It's a lora version which is made from extracting the loras from pastel-mix using a script that is similar to add-difference method.
+
+https://github.com/bmaltais/kohya_ss/blob/master/train_network_README.md
 
 ## Guide
 
