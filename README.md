@@ -11,7 +11,15 @@ tags:
 inference: true
 ---
 
+![](https://media.discordapp.net/attachments/896671880986120225/1081380176300089384/image.png)
+
+## Fantasy.ai is the official and exclusive hosted AI generation platform that holds a commercial use license for Realistic Vision, you can use their service at https://Fantasy.ai/ 
+Please report any unauthorized commercial use.
+
+
 ## **CivitAI! -> https://civitai.com/models/5414/pastel-mix-stylized-anime-model I'd appreciate the ratings, thank you!**
+
+
 
 ## **Pastel-Mix is also available in sinkin.ai: https://sinkin.ai/m/LAWr9kX Generate online!**
 
