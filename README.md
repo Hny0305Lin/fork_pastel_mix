@@ -13,15 +13,12 @@ inference: true
 
 ![](https://media.discordapp.net/attachments/896671880986120225/1081380176300089384/image.png)
 
-## Fantasy.ai is the official and exclusive hosted AI generation platform that holds a commercial use license for Pastel-Mix, you can use their service at https://Fantasy.ai/ 
+## Fantasy.ai is the official and exclusive hosted AI generation platform that holds a commercial use license for Pastel-Mix, you can use their service at https://fantasy.ai/?pastel-mix
 Please report any unauthorized commercial use.
 
 
 ## **CivitAI! -> https://civitai.com/models/5414/pastel-mix-stylized-anime-model I'd appreciate the ratings, thank you!**
 
-
-
-## **Pastel-Mix is also available in sinkin.ai: https://sinkin.ai/m/LAWr9kX Generate online!**
 
 <center><h1><b>Pastel Mix</b></h1></center>
  <p align="center">Welcome to Pastel Mix - a stylized latent diffusion model. This model is intended to produce high-quality, highly detailed anime style with just a few prompts.</p>
