@@ -29,7 +29,7 @@
   "num_class_embeds": null,
   "only_cross_attention": false,
   "out_channels": 4,
-  "sample_size": 32,
+  "sample_size": 64,
   "up_block_types": [
     "UpBlock2D",
     "CrossAttnUpBlock2D",
