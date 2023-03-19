@@ -11,8 +11,6 @@ tags:
 inference: true
 ---
 
-## Fantasy.ai is the official and exclusive hosted AI generation platform that holds a commercial use license for Pastel-Mix, you can use their service at [https://fantasy.ai](https://fantasy.ai/?pastel-mix)
-
 ---------------------
 
 ## **CivitAI! -> https://civitai.com/models/5414/pastel-mix-stylized-anime-model I'd appreciate the ratings, thank you!**
