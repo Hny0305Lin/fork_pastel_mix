@@ -196,3 +196,5 @@ The 東方Project AI community for their wonderful LORAs.
 - [dolphinz/sometimes#9353](https://huggingface.co/dolphinz) for tabi artstyle Lora.
 - [SatyamSSJ10](https://huggingface.co/SatyamSSJ10/ConceptArt) for Jordan_3 Lora.
 - randomaccessmemories#4004 for Magic Lora
+
+## 本仓库为Fork仓库，请遵守作者使用的协议！
